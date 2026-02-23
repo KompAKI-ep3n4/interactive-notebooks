@@ -1,0 +1,10 @@
+[project]
+name = "jupyter-notebooks-kompaki"
+version = "1.0.0"
+description = "Interactive notebooks to explore findings of KompAKI"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "captum>=0.8.0",
+    "torchvision>=0.25.0",
+]
