@@ -13,3 +13,4 @@ This research and development project was partially funded by the German Federal
 ## License
 
 See [LICENSE](LICENSE) for details.
+Individual files may carry additional license information in their beginnings.
